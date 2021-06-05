@@ -1,0 +1,255 @@
+.wholebody {
+    background-color: rgb(179, 203, 219);
+    border: 3px solid black;
+    width: 380px;
+    height: 630px;
+    border-radius: 10px;
+}
+
+.header {
+    display: flex;
+    height: 90px;
+    margin: 15px;
+    border-radius: 10px;
+    border: 1px solid rgb(136, 134, 134);
+}
+
+.left {
+    width: 130px;
+    text-align: center;
+    padding: 10px;
+    margin-top: -10px;
+}
+
+.head {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.fx {
+    margin-top: -20px;
+    text-align: left;
+    font-size: 12px;
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.nat {
+    margin-top: -10px;
+    text-align: left;
+    font-size: 12px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(25, 105, 25);
+    font-style: italic;
+}
+
+.right {
+    width: 220px;
+    text-align: right;
+}
+
+.img {
+    padding: 5px;
+    width: 180px;
+    border-radius: 10px;
+    margin: 3px;
+    height: 60px;
+}
+
+.pwr {
+    margin: 5px;
+    font-size: 10px;
+    font-weight: bold;
+    margin-top: -5px;
+}
+
+.main {
+    margin: 15px;
+    margin-top: -15px;
+}
+
+.screen {
+    height: 150px;
+    border: 1px solid rgb(136, 134, 134);
+    border-radius: 10px;
+}
+
+.mirror {
+    background-color: rgb(122, 167, 126);
+    margin: 10px;
+    height: 130px;
+    border-radius: 10px;
+}
+
+.first {
+    display: flex;
+    align-items: center;
+    margin-top: 1px;
+    height: 80px;
+}
+
+.shiftb {
+    height: 48px;
+    width: 48px;
+    margin: 5px;
+    border-radius: 20px;
+    font-size: 10px;
+    font-weight: bold;
+    color: rgb(238, 154, 28);
+    background-color: grey;
+}
+
+.alphab {
+    height: 48px;
+    width: 48px;
+    margin: 8px;
+    border-radius: 20px;
+    font-size: 10px;
+    font-weight: bold;
+    color: rgb(209, 45, 23);
+    background-color: grey;
+}
+
+.replayb {
+    height: 85px;
+    width: 85px;
+    margin: 9px;
+    border-radius: 25px;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(14, 13, 13);
+    background-color: grey;
+}
+
+.modesetupb {
+    height: 48px;
+    width: 48px;
+    margin: 8px;
+    border-radius: 20px;
+    font-size: 10px;
+    font-weight: bold;
+    color: rgb(245, 160, 80);
+    background-color: grey;
+}
+
+.onb {
+    height: 48px;
+    width: 48px;
+    margin: 8px;
+    border-radius: 20px;
+    font-size: 10px;
+    font-weight: bold;
+    color: rgb(15, 15, 15);
+    background-color: grey;
+}
+
+.second {
+    height: 28px;
+    margin-top: -10px;
+    display: flex;
+}
+
+.leftb {
+    width: 200px;
+    text-align: left;
+}
+
+.rightb {
+    width: 200px;
+    text-align: right;
+}
+
+.solve {
+    margin-left: 10px;
+    height: 22px;
+    width: 32px;
+    border-radius: 5px;
+    font-size: 8px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(20, 20, 20);
+}
+
+.dx {
+    margin-left: 33px;
+    height: 22px;
+    width: 32px;
+    border-radius: 5px;
+    font-size: 8px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(20, 20, 20);
+}
+
+.x {
+    margin-right: 33px;
+    height: 22px;
+    width: 32px;
+    border-radius: 5px;
+    font-size: 8px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(20, 20, 20);
+}
+
+.E {
+    margin-right: 10px;
+    height: 22px;
+    width: 32px;
+    border-radius: 5px;
+    font-size: 8px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(20, 20, 20);
+}
+
+.buttonkeys {
+    margin: 3px;
+    margin-left: 18px;
+    height: 22px;
+    width: 32px;
+    border-radius: 5px;
+    font-size: 8px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(20, 20, 20);
+}
+
+.numberkeys {
+    margin: 3px;
+    margin-left: 20px;
+    height: 32px;
+    width: 42px;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.anumberkeys {
+    margin: 3px;
+    margin-top: 3px;
+    margin-left: 20px;
+    background-color: rgb(233, 89, 5);
+    height: 33px;
+    width: 43px;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.lnumberkeys {
+    margin: 3px;
+    margin-left: 20px;
+    height: 32px;
+    width: 42px;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+}
